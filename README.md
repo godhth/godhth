@@ -11,7 +11,7 @@ I am a backend developer, currently based in Wuhan China, focusing on microservi
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more,my wechat is i116555 !😊***
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 <!--
 **godhth/godhth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
